@@ -1,0 +1,42 @@
+.cont{
+  background-color: white;
+  padding: 5%;
+  /* padding-top: 30px; */
+  margin-left: 10%;
+  margin-right: 10%;
+ margin-bottom: 30px;
+ margin-top: 30px;
+}
+
+.dets{
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 20px;
+}
+
+a.btn{
+  margin-top: 20px;
+}
+.absent{
+  margin-left: 20px;
+  display: flex;
+}
+table{
+  text-align: center;
+}
+#print{
+  font-size: 30px;
+  cursor: pointer;
+  color: rgb(75, 40, 95);
+}
+#print:hover{
+  color: black;
+}
+input,select{
+  width: 80px;
+  height: 30px;
+  font-weight: bold;
+}
+input:hover,select:hover{
+  color: brown;
+}
